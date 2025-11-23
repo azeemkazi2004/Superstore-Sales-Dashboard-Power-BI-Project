@@ -34,9 +34,9 @@ My Recommendations:
 5.Encourage higher-value purchases by offering bundles in profitable categories.
 
 🛠 Tools Used
-Power BI
-DAX
-Data Cleaning (Power Query)
+Power BI,
+DAX,
+Data Cleaning (Power Query),
 
 business summary:
 This dashboard analyzes Superstore sales and identifies patterns across categories, regions, and customer segments to understand overall performance.Monthly sales show steady growth from 2014 to 2017. However, certain sub-categories such as Furnishings show lower profitability, indicating potential issues with discounting or cost structure.
